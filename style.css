@@ -1,0 +1,28 @@
+a.signup {
+	font-size: 30px;
+}
+
+.big {
+	font-size:60px;
+}
+
+#main {
+	border-left:1px solid silver;
+	border-right:1px solid silver;
+	padding:30px;
+	/*width:70%;*/
+}
+header {
+	text-align:center;
+	margin-bottom:20px;
+}
+
+form {
+
+}
+
+
+.footer {
+
+	margin-top:50px;
+}
